@@ -1,3 +1,13 @@
+# 1.48.2 (2019-07-22)
+
+- [Issue 6364 request path](https://github.com/serverless/serverless/pull/6422)
+- [Remove spaces from Cognito Pool Name](https://github.com/serverless/serverless/pull/6419)
+- [Fix regression caused by fast detection of missing aws creds](https://github.com/serverless/serverless/pull/6427)
+
+## Meta
+
+- [Comparison since last release](https://github.com/serverless/serverless/compare/v1.48.2...v1.48.2)
+
 # 1.48.2 (2019-07-19)
 
 - [Fix issues in post install and pre uninstall scripts](https://github.com/serverless/serverless/pull/6415)
